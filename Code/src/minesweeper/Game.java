@@ -24,8 +24,11 @@ import minesweeper.Puntuacion.Time;
 
 /*
 * Antonio manzano_Game
-* @antoniomanzano
-* @v1.1
+* @author antoniomanzano
+* @version v1.1
+* @param Game, resumeGame, setButtonImages, createBoard, newGame, restartGame, endGame, gameWon
+* @return isFinished
+* @since 05/04/2019 | dd/mm/yyyy
 */
 
 // This is the main controller class

@@ -10,8 +10,8 @@ import javafx.util.Pair;
 
 
 /*
-    * Antonio manzano_boar
-     */
+* Antonio manzano_boar
+ */
 public class Board 
 {
     private int numberOfMines;	
